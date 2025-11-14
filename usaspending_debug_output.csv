@@ -1,0 +1,301 @@
+AwardId,RecipientName,AwardAmount,AwardingAgency,AwardingSubAgency,FundingAgency,FundingSubAgency,StartDate,EndDate
+ZN31,HPI FEDERAL LLC,463050.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2017-03-31,2017-06-01
+ZL57,"CACI-WGI, LLC",11303606.44,Department of Defense,U.S. Special Operations Command,Department of Defense,U.S. Special Operations Command,2015-04-30,2016-09-21
+ZL54,"GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",1890557.18,Department of Defense,U.S. Special Operations Command,Department of Defense,U.S. Special Operations Command,2012-09-12,2016-09-23
+ZL50,CELLCO PARTNERSHIP,243702.71,Department of Defense,U.S. Special Operations Command,Department of Defense,U.S. Special Operations Command,2015-09-11,2016-03-11
+ZL06,"NEW CINGULAR WIRELESS SERVICES, INC.",353454.89,Department of Defense,U.S. Special Operations Command,Department of Defense,U.S. Special Operations Command,2015-03-31,2018-03-31
+ZL01,ULTIMATE KNOWLEDGE CORPORATION,41772.06,Department of Defense,U.S. Special Operations Command,Department of Defense,U.S. Special Operations Command,2016-07-29,2016-09-30
+Z6V9,SIKORSKY AIRCRAFT CORPORATION,1841.51,Department of Defense,Defense Logistics Agency,Department of Defense,Defense Logistics Agency,2016-09-28,2017-03-27
+Z594,THE BOEING COMPANY,975413.52,Department of Defense,Defense Contract Management Agency,Department of Defense,Department of the Navy,2016-12-01,2023-02-07
+Z515,NORTHROP GRUMMAN SYSTEMS CORPO,2016112.95,Department of Defense,Defense Contract Management Agency,Department of Defense,Department of the Navy,2006-02-08,2024-10-02
+Z503,THE BOEING COMPANY,65658.84,Department of Defense,Defense Contract Management Agency,Department of Defense,Department of the Navy,2014-04-08,2023-06-23
+Z3DC,SIKORSKY AIRCRAFT CORPORATION,75827.96,Department of Defense,Defense Logistics Agency,Department of Defense,Defense Logistics Agency,2015-05-20,2019-05-25
+YMP2,THE BOEING COMPANY,162000.0,Department of Defense,Defense Logistics Agency,Department of Defense,Defense Logistics Agency,2009-10-06,2010-08-03
+Y8P4,CFM INTERNATIONAL INC,143545.2,Department of Defense,Defense Logistics Agency,Department of Defense,Defense Logistics Agency,2016-07-29,2017-05-25
+Y801,RTX CORPORATION,1306200.0,Department of Defense,Defense Contract Management Agency,Department of Defense,Defense Logistics Agency,2009-07-08,2025-10-21
+XKHH,BAE SYSTEMS PLC,85477.44,Department of Defense,Defense Logistics Agency,Department of Defense,Defense Logistics Agency,2017-05-30,2022-10-31
+XKGD,BAE SYSTEMS PLC,77065.56,Department of Defense,Defense Logistics Agency,Department of Defense,Defense Logistics Agency,2017-05-10,2022-12-02
+XK92,HAMILTON SUNDSTRAND CORPORATION,193800.0,Department of Defense,Defense Logistics Agency,Department of Defense,Defense Logistics Agency,2014-07-14,2017-01-30
+XA59,NORTHROP GRUMMAN SYSTEMS CORPORATION,44936.89,Department of Defense,Defense Logistics Agency,Department of Defense,Defense Logistics Agency,2015-10-27,2017-04-28
+XA38,NORTHROP GRUMMAN SYSTEMS CORPORATION,2648.47,Department of Defense,Defense Logistics Agency,Department of Defense,Defense Logistics Agency,2016-02-24,2021-12-30
+WE49,CDM - AECOM MULTIMEDIA JOINT VENTURE,1648529.0,Department of Defense,Department of the Navy,Department of Defense,Department of the Navy,2017-01-18,2026-09-30
+WE31,TETRA TECH INC,3080692.0,Department of Defense,Department of the Navy,Department of Defense,Department of the Navy,2017-05-26,2027-09-30
+WE26,"CH2M HILL, INC",606135.0,Department of Defense,Department of the Navy,Department of Defense,Department of the Navy,2016-07-12,2026-12-31
+WE26,RESOLUTION CONSULTANTS - AN AECOM-ENSAFE JOINT VENTURE,327432.0,Department of Defense,Department of the Navy,Department of Defense,Department of the Navy,2012-08-08,2028-11-30
+WE25,"CH2M HILL, INC",4310208.0,Department of Defense,Department of the Navy,Department of Defense,Department of the Navy,2016-07-08,2026-12-30
+WE14,TETRA TECH INC,1116771.0,Department of Defense,Department of the Navy,Department of Defense,Department of the Navy,2017-02-10,2027-09-30
+WE08,TETRA TECH INC,3922240.0,Department of Defense,Department of the Navy,Department of Defense,Department of the Navy,2016-09-01,2027-09-30
+WE07,"TETRA TECH EC, INC.",1153585.25,Department of Defense,Department of the Navy,Department of Defense,Department of the Navy,2013-07-30,2022-07-01
+WE02,AGVIQ LLC,4685866.11,Department of Defense,Department of the Navy,Department of Defense,Department of the Navy,2012-09-17,2025-12-31
+W91ZRU24P0013,SAVOIR FAIRE SERVICES LLC,7049.57,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-05,2025-06-30
+W91ZRU24P0010,ALASKA BROADCASTERS ASSOCIATION INC,199999.98,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-10-01,2026-09-30
+W91ZRU24P0009,"CREST PRECAST, INC.",88000.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-07-18,2025-06-23
+W91ZRU24C0001,"BRICE ENGINEERING, LLC",280732.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-01,2026-08-31
+W91ZRU23P0004,"BEACON OCCUPATIONAL HEALTH AND SAFETY SERVICES, INC.",240285.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-09-01,2026-08-31
+W91ZRU23P0003,"BRICE ENGINEERING, LLC",212553.44,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-09-01,2025-05-01
+W91ZRU22C0001,PARAGON PROFESSIONAL SERVICES LLC,307389.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2022-09-30,2026-06-30
+W91ZRU21F0005,PITNEY BOWES INC.,15382.2,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2021-06-08,2026-08-31
+W91ZRU21C0001,CHENEGA RELIABLE SERVICES LLC,1094695.92,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2020-12-12,2025-12-11
+W91ZRS24P0023,AVIATION GROUND EQUIPMENT CORP,15000.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-07-31,2024-08-30
+W91ZRS24P0016,"AT&T ENTERPRISES, LLC",277020.59,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-05-15,2025-04-14
+W91ZRS24P0012,"INDUSTRIES FOR THE BLIND AND VISUALLY IMPAIRED, INC.",289358.25,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-08-12,2025-01-03
+W91ZRS24P0002,FIRE PROTECTION SERVICE CORP,10962.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-11-30,2025-01-29
+W91ZRS24F0020,DELL FEDERAL SYSTEMS L.P,29021.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-18,2025-03-31
+W91ZRS23C0001,YULISTA CONTRACT SERVICES LLC,21733917.33,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-01-01,2025-12-31
+W91ZLK25PV0012,GPC CONSOLIDATED REPORTING,0.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-12-01,2024-12-31
+W91ZLK25PV0011,GPC CONSOLIDATED REPORTING,0.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-11-01,2024-11-30
+W91ZLK25PV0010,GPC CONSOLIDATED REPORTING,0.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-10-01,2024-10-31
+W91ZLK25PV0009,GPC CONSOLIDATED REPORTING,0.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2025-09-01,2025-09-30
+W91ZLK25PV0008,GPC CONSOLIDATED REPORTING,0.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2025-08-01,2025-08-31
+W91ZLK25PV0007,GPC CONSOLIDATED REPORTING,0.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2025-07-01,2025-07-31
+W91ZLK25PV0006,GPC CONSOLIDATED REPORTING,0.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2025-06-01,2025-06-30
+W91ZLK25PV0005,GPC CONSOLIDATED REPORTING,0.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2025-05-01,2025-05-31
+W91ZLK25PV0004,GPC CONSOLIDATED REPORTING,0.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2025-04-01,2025-04-30
+W91ZLK25PV0003,GPC CONSOLIDATED REPORTING,0.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2025-03-01,2025-03-31
+W91ZLK25PV0002,GPC CONSOLIDATED REPORTING,0.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2025-02-01,2025-02-28
+W91ZLK25PV0001,GPC CONSOLIDATED REPORTING,0.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2025-01-01,2025-01-31
+W91ZLK25F0002,CARAHSOFT TECHNOLOGY CORP,55696.08,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-10-07,2025-10-30
+W91ZLK24P0085,AMERICAN ASSOCIATION FOR LABORATORY ACCREDITATION,9975.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-27,2025-09-26
+W91ZLK24P0084,"GREEN LANTERN, LLC",18509.25,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-30,2025-09-29
+W91ZLK24P0083,"REVVITY HEALTH SCIENCES, INC.",11941.44,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-29,2025-09-28
+W91ZLK24P0081,"CREATIVE MAINTENANCE SOLUTIONS, LLC",947420.9,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-17,2025-09-30
+W91ZLK24P0079,CMS RESEARCH CORP,54084.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-10-01,2025-09-30
+W91ZLK24P0077,AKIMA FACILITIES OPERATIONS LLC,2129283.43,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-30,2025-09-29
+W91ZLK24P0074,ENVIRONICS INC.,27625.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-08-30,2025-08-29
+W91ZLK24P0071,ABSOLUTE CALIBRATION & CONSULTING SERVICES LLC,21912.63,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-25,2025-09-24
+W91ZLK24P0068,"MYTHICS, LLC",137033.45,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-12,2025-09-29
+W91ZLK24P0067,GOVERNMENT SCIENTIFIC SOURCE INC,210820.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-13,2024-11-12
+W91ZLK24P0065,LEICA GEOSYSTEMS INC.,78006.5,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-01,2026-08-31
+W91ZLK24P0064,INNOVMETRIC LOGICIELS INC,66842.06,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-06,2026-09-29
+W91ZLK24P0063,"BRINKMANN INSTRUMENTS, INC.",38166.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-08-27,2026-08-26
+W91ZLK24P0061,R & M GOVERNMENT SERVICES INC,439500.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-08-23,2026-08-22
+W91ZLK24P0060,"AVIDITY SCIENCE, LLC",59179.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-08-18,2026-08-17
+W91ZLK24P0058,"THE MODAL SHOP, INC.",20178.04,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-23,2025-09-22
+W91ZLK24P0055,"AQUATIC ENVIRONMENT CONSULTANTS, INC.",11686.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-23,2025-09-22
+W91ZLK24P0051,BRUKER BIOSPIN CORP,195584.6,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-30,2026-09-29
+W91ZLK24P0047,VAREX IMAGING CORP,54000.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-23,2025-09-22
+W91ZLK24P0045,VATELL CORPORATION,26926.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-23,2025-09-22
+W91ZLK24P0043,LAKE ERIE PORTABLE SCREENERS INC,198059.89,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-07-11,2025-08-31
+W91ZLK24P0041,BOOTHBID LLC,0.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-07-24,2024-10-16
+W91ZLK24P0040,BRUKER BIOSPIN CORP,47578.4,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-06-16,2026-06-15
+W91ZLK24P0039,DEWESOFT LLC,100000.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-08-06,2026-08-05
+W91ZLK24P0037,KEYSTONE MAINTENANCE SERVICES CORP,648540.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-06-12,2026-06-11
+W91ZLK24P0034,"LANG'S SEPTIC SERVICE, INC.",353480.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-05-03,2026-05-02
+W91ZLK24P0023,TIDEWATER SCALE SALES & SERVICE INC,26090.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-17,2026-09-16
+W91ZLK24P0022,AMERICAN CHEMICAL SOCIETY,220465.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-04-01,2026-03-31
+W91ZLK24P0018,DVF CORP,42000.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-07,2025-09-06
+W91ZLK24P0017,"GETINGE USA SALES, LLC",213630.05,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-03-29,2025-04-25
+W91ZLK24P0016,RACELOGIC USA CORP,11000.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-07,2025-09-06
+W91ZLK24P0014,"INVERIS TRAINING SOLUTIONS, INC",39789.48,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-07-09,2026-07-08
+W91ZLK24P0013,"SPECTRO SCIENTIFIC, INC",16375.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-10-01,2025-09-30
+W91ZLK24P0011,JEWEL ENTERPRISES LLC,32000.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-27,2025-09-26
+W91ZLK24P0010,FLUKE ELECTRONICS CORP,12175.42,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-23,2025-09-22
+W91ZLK24P0009,ROBERTS OXYGEN CO INC,20000.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-26,2025-09-25
+W91ZLK24P0008,PRIME SINGLETON SOLUTIONS LLC,14400.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-04-25,2025-10-25
+W91ZLK24P0007,PERKINELMER U.S. LLC,36231.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-02-01,2026-01-31
+W91ZLK24P0006,HARRIS FIRE PROTECTION CO INC,83602.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-02-01,2025-03-31
+W91ZLK24P0005,NORTH STAR IMAGING INCORPORATED,84167.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-01-29,2028-01-28
+W91ZLK24P0003,ADVANT-EDGE SOLUTIONS OF MIDDLE ATLANTIC INC,37445.6,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-04-01,2026-03-31
+W91ZLK24P0001,R & M GOVERNMENT SERVICES INC,153053.88,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2023-11-01,2025-10-31
+W91ZLK24F0215,AGILENT TECHNOLOGIES INC,550542.93,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-17,2025-09-16
+W91ZLK24F0208,"AURORA TECHNICAL SYSTEMS, LLC",898753.92,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-24,2025-09-24
+W91ZLK24F0182,THE AKANA GROUP INC.,104609.66,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-08-05,2025-03-20
+W91ZLK24F0140,CARAHSOFT TECHNOLOGY CORP,57071.44,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-07-12,2025-07-12
+W91ZLK24F0081,DYNAMIC SYSTEMS INC,1024805.32,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-04-22,2025-05-30
+W91ZLK24F0078,CELLCO PARTNERSHIP,108319.02,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-05-01,2025-04-30
+W91ZLK24F0077,AT&T MOBILITY NATIONAL ACCOUNTS LLC,253861.84,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-05-01,2025-04-30
+W91ZLK24F0071,CELLCO PARTNERSHIP,57042.1,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-05-01,2025-04-30
+W91ZLK24F0063,WORLD WIDE TECHNOLOGY LLC,553152.6,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-04-26,2026-04-25
+W91ZLK24F0062,"WILDFLOWER INTERNATIONAL, LTD.",119075.26,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-03-21,2024-11-27
+W91ZLK24F0061,THERMO ELECTRON NORTH AMERICA LLC,41264.45,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-03-20,2026-04-03
+W91ZLK24F0054,CELLCO PARTNERSHIP,20512.05,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-03-22,2025-03-21
+W91ZLK24F0038,THERMO ELECTRON NORTH AMERICA LLC,383542.65,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-02-24,2026-02-23
+W91ZLK24F0034,THERMO ELECTRON NORTH AMERICA LLC,194809.45,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-02-07,2026-02-06
+W91ZLK24F0033,CARAHSOFT TECHNOLOGY CORP,167190.84,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-02-15,2025-02-15
+W91ZLK24F0022,CDW GOVERNMENT LLC,344126.97,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-01-31,2026-01-31
+W91ZLK24F0007,"PENOBSCOT SUPPORT SERVICES, LLC",7011257.29,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-10-10,2025-04-09
+W91ZLK24F0004,"PENOBSCOT SUPPORT SERVICES, LLC",495631.94,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-10-10,2025-04-09
+W91ZLK24F0003,"PENOBSCOT SUPPORT SERVICES, LLC",778170.33,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-10-10,2025-04-09
+W91ZLK24F0002,"PENOBSCOT SUPPORT SERVICES, LLC",817060.78,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-10-10,2025-04-09
+W91ZLK24C0004,LEGACY MANAGEMENT SOLUTIONS LLC,261690.6,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-07-01,2025-06-30
+W91ZLK23P0096,GALAPAGOS FEDERAL SYSTEMS LLC,2485707.73,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-09-25,2025-09-24
+W91ZLK23P0089,"HYDRO SERVICE & SUPPLIES, INC.",65074.52,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2023-09-26,2025-09-25
+W91ZLK23P0087,"SPHERA SOLUTIONS, INC.",22486.87,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2023-09-28,2023-09-28
+W91ZLK23P0086,"SPACE ELECTRONICS, LLC",496485.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-09-28,2026-08-29
+W91ZLK23P0085,JOHNSON CONTROLS INC,690883.92,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2023-09-28,2025-09-27
+W91ZLK23P0074,LUMINEX CORP,27478.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2023-09-22,2025-09-21
+W91ZLK23P0071,"CONDOR TECHNOLOGIES, INC",45857.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-09-11,2026-09-10
+W91ZLK23P0064,SEAL ANALYTICAL INC.,4005.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2023-09-19,2024-09-18
+W91ZLK23P0063,YSI INC,67620.96,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2023-08-14,2026-09-25
+W91ZLK23P0061,OEHLER RESEARCH INC,42765.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-08-09,2025-06-30
+W91ZLK23P0052,ADVANCED TECHNOLOGY FOR INDUSTRY LTD,295025.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-07-26,2025-07-25
+W91ZLK23P0051,DVF CORP,108612.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-09-21,2024-09-20
+W91ZLK23P0045,INTELLIMAR INC,112144.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-06-12,2026-07-26
+W91ZLK23P0044,PETROLEUM SERVICES INC,153344.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-06-05,2026-06-04
+W91ZLK23P0040,NEWCO INC,96000.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-06-06,2026-06-05
+W91ZLK23P0034,MET RESOURCES INC.,1530000.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-04-05,2026-04-04
+W91ZLK23P0032,"INDUSTRIAL REFRIGERATION SERVICE, INC.",375000.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-04-14,2026-04-13
+W91ZLK23P0030,TRISTATE BIOMEDICAL INC,28700.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-03-20,2026-03-19
+W91ZLK23P0029,THERMO ELECTRON NORTH AMERICA LLC,55956.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-05-01,2026-04-30
+W91ZLK23P0025,PEAK SCIENTIFIC INC,19926.54,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-03-09,2026-03-08
+W91ZLK23P0019,CHESAPEAKE MISSION CRITICAL LLC,72315.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-02-17,2026-02-16
+W91ZLK23P0015,FARO TECHNOLOGIES INC,139534.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-01-01,2025-12-31
+W91ZLK23P0011,TENAX TECHNOLOGIES LLC,3313862.01,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2022-12-17,2025-12-16
+W91ZLK23P0004,KEYSIGHT TECHNOLOGIES INC,89701.52,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2022-11-01,2025-10-31
+W91ZLK23P0003,"ROHDE & SCHWARZ USA, INC.",84605.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2022-11-08,2025-11-07
+W91ZLK23F0192,STRATEGIC OPERATIONAL SOLUTIONS INC,135418.44,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-08-25,2026-08-24
+W91ZLK23F0191,GOVERNMENT ACQUISITIONS INC,93276.48,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-08-22,2025-11-14
+W91ZLK23F0153,CELLCO PARTNERSHIP,107187.6,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-08-31,2024-04-30
+W91ZLK23F0061,CELLCO PARTNERSHIP,42167.87,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-03-22,2024-03-21
+W91ZLK23F0033,CARAHSOFT TECHNOLOGY CORP,214096.6,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-01-29,2026-01-28
+W91ZLK23F0022,"LRP PUBLICATIONS, INC.",484605.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2022-12-22,2025-01-01
+W91ZLK23C0004,CMS RESEARCH CORP,1228004.51,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-10-01,2025-09-30
+W91ZLK23C0002,OMNI TECHNOLOGIES LLC,1819486.77,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2023-02-28,2026-02-27
+W91ZLK22P0097,"ANGARAI INTERNATIONAL, INC.",1416150.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2022-09-22,2026-02-15
+W91ZLK22P0096,SOPHION BIOSCIENCE INC,219036.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2022-09-20,2025-09-19
+W91ZLK22P0080,"RSO, INC.",29921.47,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2022-09-08,2025-09-07
+W91ZLK22P0078,"GRAYWOLF SENSING SOLUTIONS, LLC",58868.44,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2022-08-17,2026-08-16
+W91ZLK22P0065,"MIRION TECHNOLOGIES (CANBERRA), INC.",500432.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2022-07-29,2026-07-28
+W91ZLK22P0055,MOLECULAR DEVICES LLC,158660.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2022-09-13,2025-09-12
+W91ZLK22P0040,"X-RAY OPTICAL SYSTEMS, INC.",97599.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2022-06-15,2026-07-28
+W91ZLK22P0032,EMULATE INC,108810.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2022-06-14,2024-06-13
+W91ZLK22P0031,"CRANEWORKS, INC.",4821828.62,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2022-06-18,2025-06-17
+W91ZLK22P0025,"D2 GOVERNMENT SOLUTIONS, INC.",102094.52,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2022-06-23,2025-04-11
+W91ZLK22P0018,"EA ENGINEERING, SCIENCE, AND TECHNOLOGY, INC., PBC",127065.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2022-02-11,2026-06-12
+W91ZLK22P0006,AMERICAN ASSOCIATION FOR LABORATORY ACCREDITATION,25825.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2022-02-04,2026-02-03
+W91ZLK22F0208,AGILENT TECHNOLOGIES INC,1082121.12,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2022-09-26,2025-09-25
+W91ZLK22F0192,CARAHSOFT TECHNOLOGY CORP,2165753.64,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2022-09-22,2023-09-22
+W91ZLK22F0006,GALAPAGOS FEDERAL SYSTEMS LLC,14764871.47,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2021-12-15,2025-12-14
+W91ZLK21P0148,"BSE PERFORMANCE, LLC",50942.31,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2021-10-01,2025-09-30
+W91ZLK21P0129,AMERICAN ASSOCIATION FOR LABORATORY ACCREDITATION,15145.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2021-09-22,2025-09-21
+W91ZLK21P0068,OMNI TECHNOLOGIES LLC,1613309.41,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2021-06-10,2025-06-30
+W91ZLK21P0066,"NEU-ION, INC.",31006.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2021-06-09,2025-06-08
+W91ZLK21P0059,R A WALTON & CO INC,1656981.4,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2021-05-21,2026-05-20
+W91ZLK21F0257,"IRON BOW TECHNOLOGIES, LLC",620415.52,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2021-09-28,2025-08-31
+W91ZLK21F0094,"SOFT TECH CONSULTING, INC.",24015082.44,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2021-06-17,2026-06-16
+W91ZLK20P0094,"QCM, INC.",2489363.55,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2020-09-01,2025-08-31
+W91ZLK20P0044,"REVVITY HEALTH SCIENCES, INC.",158667.72,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2020-06-21,2025-06-20
+W91ZLK20F0127,AD HOC RESEARCH ASSOCIATES LLC,1503460.33,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2020-05-20,2023-10-31
+W91ZLK19F0026,AD HOC RESEARCH ASSOCIATES LLC,7355018.72,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2019-03-01,2023-08-28
+W91YTZ25FA001,"VALOR NETWORK, INC.",84257.5,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-04,2024-12-20
+W91YTZ24P0090,BAYER HEALTHCARE LLC,23210.26,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-30,2026-09-29
+W91YTZ24P0089,DIGITAL PLAZA LLC,131512.35,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-09-25,2025-09-28
+W91YTZ24P0088,ILLINOIS TOOL WORKS INC,88672.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-27,2026-09-26
+W91YTZ24P0086,"RCG OF NORTH CAROLINA, LLC",60330.76,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-23,2025-09-30
+W91YTZ24P0085,INVENTRIX INC,29000.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24P0082,RIELES GROUP LLC,287568.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2026-09-30
+W91YTZ24P0080,RUDOLPH RESEARCH ANALYTICAL CORPORATION,51229.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-27,2026-09-29
+W91YTZ24P0079,DIGI INTERNATIONAL INC.,4656.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-11-01,2026-10-31
+W91YTZ24P0077,"BECKMAN COULTER, INC",0.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24P0074,"STRYKER SALES, LLC",10155.6,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-02,2026-09-01
+W91YTZ24P0073,"GETINGE USA SALES, LLC",439656.6,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-01,2026-08-31
+W91YTZ24P0072,"HOLOGIC SALES AND SERVICE, LLC",56000.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-01,2026-08-31
+W91YTZ24P0070,PHILIPS NORTH AMERICA LLC,4462.08,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24P0069,VIAKORP CORPORATION,33800.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2026-10-01
+W91YTZ24P0068,"TRE INDUSTRIES, LLC",37350.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-11-24,2025-11-19
+W91YTZ24P0065,MODULA INC,6100.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2026-09-30
+W91YTZ24P0062,L1 ENTERPRISES INCORPORATED,23486.5,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24P0061,LBT DIAGNOSTIC RADIATION PHYSICS CONSULTING LTD,18200.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-01,2026-08-31
+W91YTZ24P0060,RICHARD TOPOLSKI,63000.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-08-01,2026-07-31
+W91YTZ24P0058,"STRYKER SALES, LLC",38489.28,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-08-08,2026-08-07
+W91YTZ24P0054,PARATA SYSTEMS LLC,48600.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-08-01,2025-09-30
+W91YTZ24P0049,AMG HEALTHCARE SERVICES INC,0.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24P0048,SIRTEX MEDICAL INC,103653.05,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-07-08,2025-10-01
+W91YTZ24P0047,FAYETTEVILLE TECHNICAL COMMUNITY COLLEGE,181585.36,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-07-24,2026-07-23
+W91YTZ24P0045,A&B TECHNICAL LLC,139056.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-06-06,2026-06-05
+W91YTZ24P0044,UNIVERSITY OF SOUTH CAROLINA,12000.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-08-01,2026-07-31
+W91YTZ24P0041,"SENCORPWHITE, INC.",44567.86,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-05-17,2026-04-30
+W91YTZ24P0040,"LUMENIS BE, INC.",90842.32,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-05-01,2026-04-30
+W91YTZ24P0038,HORIBA INSTRUMENTS INCORPORATED,17780.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-07-16,2026-07-15
+W91YTZ24P0037,REES SCIENTIFIC CORPORATION,100315.32,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-07-29,2026-09-30
+W91YTZ24P0032,MATRIX PROVIDERS INC.,58764.64,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-04-05,2024-04-30
+W91YTZ24P0028,SIEMENS HEALTHCARE DIAGNOSTICS INC.,135743.9,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-04-01,2026-03-31
+W91YTZ24P0026,INTEGRATED MANAGEMENT STRATEGIES LLC,141148.19,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-03-25,2026-03-24
+W91YTZ24P0023,WECOST INC,336960.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-06-22,2026-06-21
+W91YTZ24P0022,WECOST INC,336960.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-06-22,2026-06-21
+W91YTZ24P0021,MEDIALAB SOLUTIONS LLC,14289.42,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-05-31,2026-05-30
+W91YTZ24P0018,INTEGRATED MANAGEMENT STRATEGIES LLC,1453849.45,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-04-01,2026-03-31
+W91YTZ24P0017,MYEVALUATIONS.COM INC,21750.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-02-01,2025-06-06
+W91YTZ24P0015,ROCHE DIAGNOSTICS CORPORATION,247358.52,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-04-15,2026-04-14
+W91YTZ24P0014,BIOMERIEUX INC,29409.11,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-01-16,2026-01-15
+W91YTZ24P0013,GENERAL WATER TECHNOLOGIES INC,37200.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2023-12-28,2026-01-09
+W91YTZ24P0008,MEDIALAB SOLUTIONS LLC,6854.51,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2023-11-17,2026-11-16
+W91YTZ24P0007,"ORTHO-CLINICAL DIAGNOSTICS, INC",42092.25,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2023-11-21,2025-11-20
+W91YTZ24F0253,QUALITY STAFFING SOLUTIONS INC,552031.51,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-30,2026-09-29
+W91YTZ24F0252,VIGHTER LLC,1070930.58,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-28,2027-09-29
+W91YTZ24F0250,READIFORCE GOVERNMENT SOLUTIONS LLC,703555.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2026-09-30
+W91YTZ24F0249,"GREER LABORATORIES, INC.",373592.14,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-27,2024-09-30
+W91YTZ24F0248,"PZI INTERNATIONAL CONSULTING, INC.",247473.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-27,2025-09-26
+W91YTZ24F0247,"BECKMAN COULTER, INC",42737.32,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2026-09-30
+W91YTZ24F0245,"SARATOGA MEDICAL CENTER, INC.",268601.25,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0243,SPECTRUM SERVICES GROUP INC,1556044.8,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2026-09-30
+W91YTZ24F0241,"ENTERPRISE RESOURCE PLANNING INTERNATIONAL, LLC",2116507.52,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-30,2026-09-29
+W91YTZ24F0239,AIRGAS USA LLC,86128.14,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-03-31
+W91YTZ24F0238,SPECTRUM SERVICES GROUP INC,704232.86,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2026-09-30
+W91YTZ24F0237,ABBOTT LABORATORIES INC.,2802874.8,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-21,2026-09-20
+W91YTZ24F0236,"CATALYST PROFESSIONAL SERVICES, INC.",328909.44,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0234,"LUKE & ASSOCIATES, INC.",553174.3,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-30,2027-09-29
+W91YTZ24F0233,"BECKMAN COULTER, INC",13294.68,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0232,TLS JOINT VENTURE LLC,1771083.64,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-01-31
+W91YTZ24F0231,SIEMENS HEALTHCARE DIAGNOSTICS INC.,62061.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-01,2025-09-30
+W91YTZ24F0227,DECYPHER TECHNOLOGIES LTD,0.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-03-31
+W91YTZ24F0226,AGILITI HEALTH INC,750000.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0224,"ORTHO-CLINICAL DIAGNOSTICS, INC",153426.84,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2026-09-30
+W91YTZ24F0222,SPECTRUM SERVICES GROUP INC,1432500.32,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-29,2026-09-28
+W91YTZ24F0221,ADVANT-EDGE SOLUTIONS OF MIDDLE ATLANTIC INC,10032.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0220,"CATALYST PROFESSIONAL SERVICES, INC.",685862.4,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2026-09-30
+W91YTZ24F0219,"THE ROYSTER GROUP, INC.",955276.8,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2026-09-30
+W91YTZ24F0218,READIFORCE GOVERNMENT SOLUTIONS LLC,545433.6,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-01,2026-08-31
+W91YTZ24F0216,MEDEX MEDICAL TRANSPORT SERVICE INC,1607108.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-30,2025-09-29
+W91YTZ24F0214,"CENTRALCARE, INCORPORATED",823109.03,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-01,2026-08-31
+W91YTZ24F0213,"SYSMEX AMERICA, INC",87397.6,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-03
+W91YTZ24F0212,"SYSMEX AMERICA, INC",39478.57,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0209,"PROFESSIONAL CONTRACT SERVICES, INC.",1951841.22,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-01,2025-08-31
+W91YTZ24F0208,READIFORCE GOVERNMENT SOLUTIONS LLC,483571.2,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2026-09-30
+W91YTZ24F0207,DILLIGAS CORP,80806.55,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0204,"CATALYST PROFESSIONAL SERVICES, INC.",0.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0201,"SYSMEX AMERICA, INC",39582.56,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0189,DILLIGAS CORP,144537.6,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2026-09-30
+W91YTZ24F0188,"TRULEADER SERVICES, LLC",1052355.84,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0187,WERFEN USA LLC,48167.24,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-07-18,2025-07-17
+W91YTZ24F0185,ADVANT-EDGE SOLUTIONS OF MIDDLE ATLANTIC INC,74409.54,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-08-01,2025-07-31
+W91YTZ24F0184,"AMERICAN NATIONAL RED CROSS, THE",99900.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-09-01,2024-10-01
+W91YTZ24F0181,"CATALYST PROFESSIONAL SERVICES, INC.",66152.96,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0180,RWD CONSULTING LLC,731976.18,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2026-09-30
+W91YTZ24F0179,DILLIGAS CORP,917426.8,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2026-09-30
+W91YTZ24F0177,"CATALYST PROFESSIONAL SERVICES, INC.",718625.34,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2026-09-30
+W91YTZ24F0175,ADVANT-EDGE SOLUTIONS OF MIDDLE ATLANTIC INC,4787.64,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-08-01,2025-07-31
+W91YTZ24F0174,ADVANT-EDGE SOLUTIONS OF MIDDLE ATLANTIC INC,21880.58,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-08-01,2025-07-31
+W91YTZ24F0172,SPECTRUM SERVICES GROUP INC,1296691.2,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-07-01,2026-06-30
+W91YTZ24F0170,DILLIGAS CORP,2300238.2,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0168,"CLOVER-ONE JOINT VENTURE, LLC",1704816.9,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-06-01,2025-05-31
+W91YTZ24F0162,ADVANT-EDGE SOLUTIONS OF MIDDLE ATLANTIC INC,18611.75,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0156,LABORATORY CORPORATION OF AMERICA,15000.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0155,LABORATORY CORPORATION OF AMERICA,2040.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0154,LABORATORY CORPORATION OF AMERICA,10800.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0153,AGILITI HEALTH INC,150000.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0152,ADVANT-EDGE SOLUTIONS OF MIDDLE ATLANTIC INC,61716.96,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0151,LABORATORY CORPORATION OF AMERICA,75906.74,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0150,ADVANT-EDGE SOLUTIONS OF MIDDLE ATLANTIC INC,7651.37,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-07-31
+W91YTZ24F0136,"CENSIS TECHNOLOGIES, INC.",104001.6,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-06-01,2026-05-31
+W91YTZ24F0131,AGILITI HEALTH INC,929544.76,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-07-01,2025-06-30
+W91YTZ24F0128,"PREMIER SHOCKWAVE, INC",153545.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-05-31,2025-05-30
+W91YTZ24F0125,"NJS JOINT VENTURE, LLC",448208.6,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-06-01,2024-06-30
+W91YTZ24F0124,"ABLE FORCE, INC",152286.0,Department of Defense,Department of the Army,Department of Defense,Department of the Army,2024-08-20,2025-08-19
+W91YTZ24F0123,AGILITI HEALTH INC,290000.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-05-01,2025-04-30
+W91YTZ24F0122,"SARATOGA MEDICAL CENTER, INC.",384846.13,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-05-01,2025-09-30
+W91YTZ24F0121,LABORATORY CORPORATION OF AMERICA,768695.96,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0118,MAGNIFICUS CORPORATION,1714543.11,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-05-01,2025-10-31
+W91YTZ24F0116,"VALOR NETWORK, INC.",158322.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2025-01-31,2026-01-30
+W91YTZ24F0114,"VALOR NETWORK, INC.",499994.5,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2025-01-31,2026-01-30
+W91YTZ24F0106,LABORATORY CORPORATION OF AMERICA,349999.92,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0105,TEYA SUPPORT SERVICES LLC,1808111.1,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0096,"INTERPRETERS UNLIMITED, INC.",40090.56,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-04-01,2025-03-31
+W91YTZ24F0095,LABORATORY CORPORATION OF AMERICA,294671.08,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-04-01,2025-03-31
+W91YTZ24F0094,"JOB OPTIONS, INCORPORATED",943571.5,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2026-10-31
+W91YTZ24F0093,ADVANT-EDGE SOLUTIONS OF MIDDLE ATLANTIC INC,18563.88,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-10-01,2025-09-30
+W91YTZ24F0087,"DONALD L. MOONEY ENTERPRISES, LLC",745490.4,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-04-01,2026-09-30
+W91YTZ24F0086,"VALOR NETWORK, INC.",29742.5,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-03-01,2025-01-30
+W91YTZ24F0082,LABORATORY CORPORATION OF AMERICA,15000.0,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-02-21,2024-09-30
+W91YTZ24F0080,TEYA ENTERPRISES LLC,1132269.54,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-06-01,2025-05-31
+W91YTZ24F0076,"NJS JOINT VENTURE, LLC",1340107.49,Department of Defense,Department of the Army,Department of Defense,Defense Health Agency,2024-03-01,2024-05-31
