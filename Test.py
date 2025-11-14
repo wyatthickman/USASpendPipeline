@@ -23,7 +23,10 @@ FIELDS = [
     "Funding Agency",
     "Funding Sub Agency",
     "Start Date",
-    "End Date"
+    "End Date",
+    "Recipient State",
+    "Recipient City",
+    "Recipient Location",
 ]
 
 # Max pages to pull while debugging (each page = 100 rows)
@@ -85,6 +88,7 @@ def transform_for_powerbi(record: dict) -> dict:
     Shape one USAspending record into the row structure
     you'd push to Power BI (push dataset).
     """
+    loc = record.get("Recipient Location") or {}
     return {
         "AwardId":          record.get("Award ID"),
         "RecipientName":    record.get("Recipient Name"),
@@ -94,7 +98,10 @@ def transform_for_powerbi(record: dict) -> dict:
         "FundingAgency":    record.get("Funding Agency"),
         "FundingSubAgency": record.get("Funding Sub Agency"),
         "StartDate":        record.get("Start Date"),
-        "EndDate":          record.get("End Date"),
+        "EndDate":          record.get("End Date"),     
+        "Recipient State": loc.get("state_name"),
+        "Recipient City":   loc.get("city_name"),
+        "Recipient Country": loc.get("country_name"),
     }
 
 
